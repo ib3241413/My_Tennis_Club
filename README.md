@@ -1,8 +1,4 @@
-Sure, let's create a simple README file for your Django project that you can include in your GitHub repository. The README file usually provides information about the project, its purpose, and instructions on how to set it up and use it.
 
-Create a file named `README.md` in the root of your project and add the following content:
-
-```markdown
 # My Tennis Club
 
 Welcome to My Tennis Club! This is a simple Django project that allows you to manage and display information about club members.
